@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel&display=swap');
+
+body {
+    background: #433;
+    color: #fee;
+    
+}
+
+header img {
+    width: 100%;
+    box-shadow: 0 0 10px #222;
+    border: 5px solid #222;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    text-shadow: 0 2px 4px #222;
+    font-family: "Cinzel", "Times New Roman", sans-serif;
+    font-weight: 400;
+}
+
+p, label, a {
+    font-family: "Cinzel", "Times New Roman", sans-serif;
+    font-weight: 400;
+}
