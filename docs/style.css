@@ -3,7 +3,6 @@
 body {
     background: #433;
     color: #fee;
-    
 }
 
 header img {
@@ -21,4 +20,10 @@ h1, h2, h3, h4, h5, h6 {
 p, label, a {
     font-family: "Cinzel", "Times New Roman", sans-serif;
     font-weight: 400;
+}
+
+main p {
+    margin-top: 1rem;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 200;
 }
